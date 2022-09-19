@@ -1,0 +1,19 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+# torch==1.9.1
+clearml
+#dask[dataframe]
+
+# SQLAlchemyw
+# tqdm
+# boto3
+# pytorch-lightning
+# geopy
+# dipy
+# pyproj
+# python-snappy
+# fsastparquet
+# matplotlib
+# bayesian_optimization
+# hpbandster
+# hyperopt
+# pandas
